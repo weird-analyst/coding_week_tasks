@@ -4,4 +4,4 @@ Name: Adarsh Gupta
 Roll Number: 220101003
 Branch: CSE
 ```
-Hi, I am a first year B.Tech student from CSE Department. I am particularly interested in the field of 
+Hi, I am a first year B.Tech student from CSE Department. I am particularly interested in the field of Deep Learning and Computational Neuroscience, altough looking to explore more topics of interest in college. 
